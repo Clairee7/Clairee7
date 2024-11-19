@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clairee7
 - 👀 I’m interested in Math and Programming
-- 🌱 I’m currently learning Calculus and php
+- 🌱 I’m currently learning PHP and JS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
